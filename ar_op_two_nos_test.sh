@@ -29,6 +29,7 @@ else
         fi
 
 fi
+
 echo "---------Arithematic Operation Summary:---------"
 echo -e "First Number:$num1\t\tSecond Number:$num2"
 echo "         Sum:$sum                         "
