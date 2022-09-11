@@ -37,5 +37,5 @@ echo "         Difference:$sub                  "
 echo "         Product:$mul                     "
 echo "         Division:$div                    "
 echo "--------------------END-------------------"
-echo 
+
 
